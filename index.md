@@ -4,3 +4,6 @@
 
 I made some markdown in this file, to test and learn. 
 ![Image of Mona Lovelace](https://octodex.github.com/images/mona-lovelace.jpg)
+``` javascript
+const myFirstLine = "Hello, world!";
+```
