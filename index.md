@@ -7,3 +7,6 @@ I made some markdown in this file, to test and learn.
 ``` javascript
 const myFirstLine = "Hello, world!";
 ```
+- [ ] Add a header
+- [ ] Add an image
+- [ ] add a task lite
